@@ -2,7 +2,7 @@
 
 1- Project introduction: Adjusting the brightness - By changing the range input, the brightness of the screen changes. Also, the background image changes every 2 seconds.
 -------------------------------------------------------------------
-!!!!!!!!: This project is coded in a modular way, so the important thing is to open it with live server.
+!!!!!!!!: This project is coded in a modular way, so it is better to open with live server.
 -------------------------------------------------------------------
 2- Features and capabilities:
 
